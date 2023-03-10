@@ -120,11 +120,11 @@ body {
 
 .nft-price {
   color: var(--cyan);
-  font-weight: 400;
+  font-weight: 600;
+  font-size: 1rem;
 }
 
 .nft-remaining-duration {
-  font-weight: 300;
   font-size: 1rem;
 }
 
@@ -137,7 +137,6 @@ body {
 
 .nft-creator p {
   font-size: 1rem;
-  font-weight: 300;
 }
 
 .nft-creator span {
@@ -150,7 +149,7 @@ body {
 }
 
 .creator {
-  width: 32px;
+  width: 34px;
   border: 1px solid var(--white);
   border-radius: 50%;
 }
