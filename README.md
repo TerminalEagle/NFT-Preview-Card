@@ -29,11 +29,11 @@ Users should be able to:
 
 #### Desktop
 
-![](./desktop-design.jpg)
+![](./desktop-design.png)
 
 #### Mobile
 
-![](./mobile-design.jpg)
+![](./mobile-design.png)
 
 ### Links
 
