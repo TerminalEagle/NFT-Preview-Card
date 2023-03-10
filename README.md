@@ -23,12 +23,7 @@ Users should be able to:
 
 ### Screenshot
 
-#### Desktop
-
 ![](./desktop-design.png)
-
-#### Mobile
-
 ![](./mobile-design.png)
 
 ### Links
